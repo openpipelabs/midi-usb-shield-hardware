@@ -13,7 +13,7 @@ products from OpenPipe!
 
 License & Attribution
 ---------------------
-Designed by OpenPipe.
+Designed by OpenPipe (www.openpipe.cc).
 
 Creative Commons Attribution-NonCommercial-ShareAlike license (CC BY-NC-SA)
 
